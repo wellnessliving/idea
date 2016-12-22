@@ -11,6 +11,19 @@
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_CREATE_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_BLOCK_STATEMENT" value="false" />
+    <option name="ALIGN_TYPE_IN_ARGUMENT_DEFINITION" value="false" />
+    <option name="ALIGN_INSIDE_BINARY_EXPRESSION" value="false" />
+    <option name="ALIGN_INSIDE_QUERY_EXPRESSION" value="false" />
+    <option name="ALIGN_EQ_INSIDE_SET_CLAUSE" value="false" />
+    <option name="NEW_LINE_BEFORE_JOIN" value="false" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
@@ -54,5 +67,8 @@
     <arrangement>
       <groups />
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   </codeStyleSettings>
 </code_scheme>
