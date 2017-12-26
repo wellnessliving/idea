@@ -1,4 +1,10 @@
-<code_scheme name="Default (1)">
+<code_scheme name="Default (1)" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <PHPCodeStyleSettings>
     <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_KEEP_BLANK_LINES" value="false" />
