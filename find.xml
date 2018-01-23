@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*report.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -26,6 +27,14 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*</mask>
+      <mask>rep</mask>
+      <mask>repor</mask>
+      <mask>report.</mask>
+      <mask>report.p</mask>
+      <mask>report.ph</mask>
+      <mask>report.php</mask>
+      <mask>*report.php</mask>
     </recentFileMasks>
   </component>
 </application>
