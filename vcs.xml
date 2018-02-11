@@ -14,6 +14,10 @@
           <option name="url" value="ssh://git.svn.1024.info:35469/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yuri-popoff/ccr.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\www\workspace\checkout" />
