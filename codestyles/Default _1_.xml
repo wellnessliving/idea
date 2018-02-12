@@ -34,6 +34,7 @@
     <option name="IDENTIFIER_CASE" value="1" />
   </SqlCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
