@@ -1,10 +1,10 @@
 <templateSet group="PHP">
-  <template name="@thrass" value="@throws \AAssertException In a case of an assertion." toReformat="false" toShortenFQNames="true">
+  <template name="@thrass" value="@throws \AAssertException In a case of an assertion." description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
     </context>
   </template>
-  <template name="@thrdb" value="@throws \DbException In a case of an error with database or database query." toReformat="false" toShortenFQNames="true">
+  <template name="@thrdb" value="@throws \DbException In a case of an error with database or database query." description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Comment" value="true" />
     </context>
