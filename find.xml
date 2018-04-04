@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,7 +20,6 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*</mask>
       <mask>rep</mask>
       <mask>repor</mask>
@@ -29,9 +29,14 @@
       <mask>report.php</mask>
       <mask>*report.php</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
