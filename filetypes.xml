@@ -3,9 +3,8 @@
     <extensionMap>
       <mapping ext="bin" type="Native" />
       <mapping ext="csv" type="PLAIN_TEXT" />
-      <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
-      <mapping ext="dic" type="PLAIN_TEXT" />
+      <mapping ext="java" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
