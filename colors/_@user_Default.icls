@@ -1,0 +1,12 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2018-05-04T11:49:35</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2018.1.2.0.0</property>
+    <property name="modified">2018-05-05T01:30:43</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <colors>
+    <option name="WHITESPACES" value="858585" />
+  </colors>
+</scheme>
