@@ -5,12 +5,17 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="C:\www\server\-php-7.0\php.exe" id="cd6a4885-f3f0-42e7-9031-21f5e26956ab" name="PHP 7.0.8" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7">
-        <phpinfo binary_type="PHP" php_cgi="C:\www\server\php\php-cgi.exe" php_cli="C:\www\server\php\php.exe" path_separator=";" version="7.0.8">
+      <interpreter name="PHP 7.0.8">
+        <phpinfo binary_type="PHP" php_cgi="C:\www\server\-php-7.0\php-cgi.exe" php_cli="C:\www\server\-php-7.0\php.exe" path_separator=";" version="7.0.8">
           <additional_php_ini />
-          <configuration_file>C:\www\server\php\php.ini</configuration_file>
+          <configuration_file>C:\www\server\-php-7.0\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -73,7 +78,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="c:/www/server/php/ext/" />
+            <configuration_option name="extension_dir" value="c:/www/server/-php-7.0/ext/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
