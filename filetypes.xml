@@ -9,6 +9,7 @@
       <mapping pattern="wsd-demo" type="PLAIN_TEXT" />
       <mapping ext="pho" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
+      <mapping ext="xtext" type="XML" />
     </extensionMap>
   </component>
 </application>
