@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.md" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,8 +19,8 @@
     <mask>*.mxml</mask>
     <mask>foreign</mask>
     <mask>*.less</mask>
-    <mask>*.php</mask>
     <mask>rfc-*.png</mask>
     <mask>*.md</mask>
+    <mask>*.php</mask>
   </component>
 </application>
