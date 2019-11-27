@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.md" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,9 +15,9 @@
     <mask>foreign</mask>
     <mask>*.less</mask>
     <mask>rfc-*.png</mask>
-    <mask>*.md</mask>
     <mask>*.js</mask>
     <mask>*Api.php</mask>
     <mask>*.php</mask>
+    <mask>*.md</mask>
   </component>
 </application>
