@@ -15,9 +15,9 @@
     <mask>*.js</mask>
     <mask>*Api.php</mask>
     <mask>*.md</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
