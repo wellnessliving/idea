@@ -1,8 +1,122 @@
 <code_scheme name="Default" version="173">
+  <option name="OTHER_INDENT_OPTIONS">
+    <value>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </value>
+  </option>
   <option name="LINE_SEPARATOR" value="&#13;&#10;" />
+  <DB2CodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </DB2CodeStyleSettings>
+  <DerbyCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </DerbyCodeStyleSettings>
+  <H2CodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </HSQLCodeStyleSettings>
+  <MSSQLCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </MSSQLCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </MySQLCodeStyleSettings>
+  <OracleCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </OracleCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="NAMESPACE_BRACE_STYLE" value="2" />
   </PHPCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </PostgresCodeStyleSettings>
+  <SQLiteCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </SQLiteCodeStyleSettings>
   <SqlCodeStyleSettings version="2">
     <option name="ALIAS_CASE" value="1" />
     <option name="KEYWORD_CASE" value="1" />
@@ -15,6 +129,18 @@
     <option name="FROM_EL_LINE" value="101" />
     <option name="FROM_PLACE_ON" value="10" />
   </SqlCodeStyleSettings>
+  <SybaseCodeStyleSettings version="2">
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUERY_EL_LINE" value="101" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="WITH_EL_LINE" value="101" />
+    <option name="FROM_EL_LINE" value="101" />
+    <option name="FROM_PLACE_ON" value="10" />
+  </SybaseCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
@@ -27,7 +153,62 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="DB2">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Derby">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="H2">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HSQLDB">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HTML">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Oracle">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
@@ -43,7 +224,35 @@
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="SQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQLite">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Sybase">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TSQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
