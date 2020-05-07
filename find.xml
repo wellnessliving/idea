@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,13 +17,13 @@
     <mask>*.mxml</mask>
     <mask>foreign</mask>
     <mask>rfc-*.png</mask>
-    <mask>*.js</mask>
     <mask>*Api.php</mask>
     <mask>*.md</mask>
     <mask>*.xml</mask>
-    <mask>*.less</mask>
     <mask>*.sql</mask>
-    <mask>*.php</mask>
     <mask>*report.php</mask>
+    <mask>*.js</mask>
+    <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
